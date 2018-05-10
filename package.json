@@ -1,0 +1,14 @@
+{
+  "name": "OmegA Bot",
+  "version": "v0.01",
+  "description": "A moderation bot for discord",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Echo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
